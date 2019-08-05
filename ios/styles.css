@@ -1,0 +1,104 @@
+
+.desteam h2 {
+    text-align: center;
+}
+
+.devteam h2 {
+    text-align: center;
+}
+h2{
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 20px;
+}
+.about p, .features p{
+  max-width: 1200px;
+  margin: auto;
+  padding:20px;
+}
+.features-row{
+max-width: 1200px;
+margin:auto;
+}
+
+.title-video{
+  width: 1200px;
+  text-align: center;
+}
+.span4{
+  margin: 0;
+}
+.span4 .first-heading{
+  padding-top: 10px;
+}
+.span4 img {
+    margin-right: 15px;
+    width:465px;
+}
+.span4 .img-left, video {
+    float: left;
+}
+
+.video-fluid {
+  width: 465px;
+  height: auto;
+  margin: 15px 0;
+  margin-right: 15px;
+}
+.span4 .img-right {
+    float: right;
+}
+
+
+@media only screen and (max-width: 800px) {
+.features{
+  display: block;
+}
+.features-row{
+  display: block;
+}
+.features-row .col{
+  display: block;
+  width:90%;
+  margin:auto;
+}
+.team-members .col{
+  width:100%;
+}
+
+.contact-title{
+  font-weight: bold;
+  padding-bottom: 0 !important;
+}
+.contact-title p{
+font-size: 13px;
+}
+.contact-details{
+  display:block;
+}
+.contact-details .col{
+    width:100%;
+
+}
+
+.why-floclu{
+width: 100%;
+}
+.why-floclu h3, p{
+padding:20px;
+padding-top: 0;
+padding-bottom: 0;
+}
+.why-floclu img{
+  width: 100%;
+}
+.video-fluid {
+  width: 100%;
+  height: auto;
+  margin: 15px 0;
+}
+.span4{
+  margin-bottom: 2em;
+}
+
+}
