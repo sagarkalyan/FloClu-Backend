@@ -20,5 +20,5 @@
 
 ## CONTRIBUTERS
 ### [SHIVA MALL](https://github.com/Shivamall)
-### [SAGAR KALYAN](https://github.com/sagarkalyan)
+### [Ashish](https://github.com/AshishProjects)
 ### [Harmanpreet Gill](https://github.com/iamharmangill)
