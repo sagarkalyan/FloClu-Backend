@@ -3,8 +3,8 @@ require_once('settings.php');
 require_once('google-login-api.php');
 
 $servername = "localhost";
-$username = "hf79csgsn2da";
-$password = "Sk@2991993";
+$username = "";
+$password = "";
 $dbname = "oauth";
 
 // Create connection
